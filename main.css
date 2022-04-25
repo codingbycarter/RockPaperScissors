@@ -1,0 +1,18 @@
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("Rock Paper Scissors.png");
+    font-family: 'Courier New', Courier, monospace;
+    background-size: cover;
+    font-size: large;
+    color: chartreuse;
+}
+.scoreboard{
+        color:yellow;
+}
+.colorYT{
+    color:rgb(15, 223, 15);
+    font-size:50px;
+}
